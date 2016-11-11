@@ -1,0 +1,14 @@
+E:\源码\winforms-modernui-master\winforms-modernui-master\MetroFramework\bin\Debug\MetroFramework.dll
+E:\源码\winforms-modernui-master\winforms-modernui-master\MetroFramework\bin\Debug\MetroFramework.pdb
+E:\源码\winforms-modernui-master\winforms-modernui-master\MetroFramework\obj\Debug\MetroFramework.csprojResolveAssemblyReference.cache
+E:\源码\winforms-modernui-master\winforms-modernui-master\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+E:\源码\winforms-modernui-master\winforms-modernui-master\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+E:\源码\winforms-modernui-master\winforms-modernui-master\MetroFramework\obj\Debug\MetroFramework.dll
+E:\源码\winforms-modernui-master\winforms-modernui-master\MetroFramework\obj\Debug\MetroFramework.pdb
+E:\Project\NetVideoPlayer\MetroFramework\bin\Debug\MetroFramework.dll
+E:\Project\NetVideoPlayer\MetroFramework\bin\Debug\MetroFramework.pdb
+E:\Project\NetVideoPlayer\MetroFramework\obj\Debug\MetroFramework.csprojResolveAssemblyReference.cache
+E:\Project\NetVideoPlayer\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+E:\Project\NetVideoPlayer\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+E:\Project\NetVideoPlayer\MetroFramework\obj\Debug\MetroFramework.dll
+E:\Project\NetVideoPlayer\MetroFramework\obj\Debug\MetroFramework.pdb
