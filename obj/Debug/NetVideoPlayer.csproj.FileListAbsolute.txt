@@ -1,0 +1,48 @@
+E:\Project\NetVideoPlayer\NetVideoPlayer\bin\Debug\NetVideoPlayer.exe.config
+E:\Project\NetVideoPlayer\NetVideoPlayer\obj\Debug\Interop.APlayer3Lib.dll
+E:\Project\NetVideoPlayer\NetVideoPlayer\obj\Debug\AxInterop.APlayer3Lib.dll
+E:\Project\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.csproj.ResolveComReference.cache
+E:\Project\NetVideoPlayer\NetVideoPlayer\bin\Debug\NetVideoPlayer.exe.manifest
+E:\Project\NetVideoPlayer\NetVideoPlayer\bin\Debug\NetVideoPlayer.exe
+E:\Project\NetVideoPlayer\NetVideoPlayer\bin\Debug\NetVideoPlayer.pdb
+E:\Project\NetVideoPlayer\NetVideoPlayer\bin\Debug\MetroFramework.dll
+E:\Project\NetVideoPlayer\NetVideoPlayer\bin\Debug\MetroFramework.pdb
+E:\Project\NetVideoPlayer\NetVideoPlayer\bin\Debug\Interop.APlayer3Lib.dll
+E:\Project\NetVideoPlayer\NetVideoPlayer\bin\Debug\AxInterop.APlayer3Lib.dll
+E:\Project\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.csprojResolveAssemblyReference.cache
+E:\Project\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.FormSubtilte.resources
+E:\Project\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.Main.resources
+E:\Project\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.Properties.Resources.resources
+E:\Project\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.csproj.GenerateResource.Cache
+E:\Project\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.exe.manifest
+E:\Project\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.exe
+E:\Project\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.pdb
+E:\Project\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.MessageBoxFX.resources
+E:\Project\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.About.resources
+E:\Project\NetVideoPlayer\NetVideoPlayer\bin\Debug\APlayer_3.9.0.753.dll
+C:\Users\JinMo Ye\Desktop\NetVideoPlayer\NetVideoPlayer\bin\Debug\NetVideoPlayer.exe.config
+C:\Users\JinMo Ye\Desktop\NetVideoPlayer\NetVideoPlayer\obj\Debug\Interop.APlayer3Lib.dll
+C:\Users\JinMo Ye\Desktop\NetVideoPlayer\NetVideoPlayer\obj\Debug\AxInterop.APlayer3Lib.dll
+C:\Users\JinMo Ye\Desktop\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.csproj.ResolveComReference.cache
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\bin\Debug\NetVideoPlayer.exe.config
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\obj\Debug\Interop.APlayer3Lib.dll
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\obj\Debug\AxInterop.APlayer3Lib.dll
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.csproj.ResolveComReference.cache
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\bin\Debug\NetVideoPlayer.exe.manifest
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\bin\Debug\NetVideoPlayer.exe
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\bin\Debug\NetVideoPlayer.pdb
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\bin\Debug\MetroFramework.dll
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\bin\Debug\MetroFramework.pdb
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\bin\Debug\Interop.APlayer3Lib.dll
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\bin\Debug\AxInterop.APlayer3Lib.dll
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\bin\Debug\APlayer_3.9.0.753.dll
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.csprojResolveAssemblyReference.cache
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.About.resources
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.FormSubtilte.resources
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.Main.resources
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.MessageBoxFX.resources
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.Properties.Resources.resources
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.csproj.GenerateResource.Cache
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.exe.manifest
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.exe
+E:\OneDrive\Project\VisualStudio\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.pdb
